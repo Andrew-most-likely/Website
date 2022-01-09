@@ -1,1 +1,1 @@
-console("no secrets here")
+console.log("no secrets here")
