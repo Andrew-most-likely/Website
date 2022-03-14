@@ -1,15 +1,7 @@
 'use strict'
 
 let wordList = [
-  'patio',
-  'darts',
-  'piano',
-  'horse',
-  'hello',
-  'water',
-  'pizza',
-  'sushi',
-  'crabs'
+  'south'
 ];
 let secret = wordList[0]
 
