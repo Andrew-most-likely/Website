@@ -1,7 +1,15 @@
 'use strict'
 
 let wordList = [
-  'south'
+  'south',
+  'south',
+  'south',
+  'south',
+  'south',
+  'south',
+  'south',
+  'south',
+  'south',
 ];
 let secret = wordList[0]
 
