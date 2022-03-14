@@ -1,16 +1,6 @@
 'use strict'
 
-let wordList = [
-  'south',
-  'douth',
-  'fouth',
-  'gouth',
-  'houth',
-  'jouth',
-  'kouth',
-  'louth',
-  'zouth'
-];
+let wordList = dixtionary.txt;
 let secret = wordList[0]
 
 let currentAttempt = ''
