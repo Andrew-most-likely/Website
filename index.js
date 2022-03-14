@@ -2,14 +2,14 @@
 
 let wordList = [
   'south',
-  'south',
-  'south',
-  'south',
-  'south',
-  'south',
-  'south',
-  'south',
-  'south',
+  'douth',
+  'fouth',
+  'gouth',
+  'houth',
+  'jouth',
+  'kouth',
+  'louth',
+  'zouth'
 ];
 let secret = wordList[0]
 
