@@ -1,12 +1,12 @@
 'use strict'
 
 let wordList = [
-'pades',
-'there',
-'their',
-'about',
-'would',
-'these',
+'2021!',
+'greek',
+'roman',
+'rebel',
+'jeans',
+'genes',
 'other',
 'words',
 'could',
