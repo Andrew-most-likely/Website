@@ -5801,7 +5801,7 @@ function handleKey(key) {
     pauseInput()
   } else if (letter === 'backspace') {
     currentAttempt = currentAttempt.slice(0, currentAttempt.length - 1)
-  } else if (/^[a-z][0-9][!]$/.test(letter)) {
+  } else if (/^[a-z,0-9,!]$/.test(letter)) {
     if (currentAttempt.length < 5) {
       currentAttempt += letter
       animatePress(currentAttempt.length - 1)
