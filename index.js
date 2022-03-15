@@ -1,7 +1,7 @@
 'use strict'
 
 let wordList = [
-'2021!',
+'2023!',
 'greek',
 'roman',
 'rebel',
